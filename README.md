@@ -95,7 +95,7 @@ The mobile application provides native functionality for all stakeholders:
 - **Retailers**: Manage inventory, track products
 - **Consumers**: Scan QR codes, view product history
 
-## 🔧 Configuration
+## 🔧 Configuration.
 
 ### Environment Variables
 ```env
