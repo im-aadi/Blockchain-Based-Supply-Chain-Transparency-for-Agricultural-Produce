@@ -1,4 +1,4 @@
-# AgriChain: Blockchain-Based Supply Chain Transparency for Agricultural Produce
+# AgriChain: Blockchain-Based Supply Chain Transparency for Agricultural Produce.
 
 ## 🌾 Overview
 
