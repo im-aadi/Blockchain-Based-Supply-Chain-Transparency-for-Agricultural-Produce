@@ -13,7 +13,7 @@ AgriChain is a comprehensive blockchain-based platform that ensures complete tra
 - **Quality Assurance**: Automated quality checks and certification
 - **Sustainability Tracking**: Monitor environmental impact and sustainable practices
 - **Real-time Monitoring**: Live updates on product status and location
-- **Mobile Application**: Native mobile apps for all stakeholders
+- **Mobile Application**: Native mobile apps for all stakeholders.
 
 ## 🏗️ Architecture
 
