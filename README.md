@@ -2,7 +2,7 @@
 
 ## 🌾 Overview
 
-AgriChain is a comprehensive blockchain-based platform that ensures complete transparency and traceability in agricultural supply chains. From farm to table, every step of the agricultural produce journey is recorded on the blockchain, providing immutable proof of origin, quality, and handling practices.
+AgriChain is a comprehensive blockchain-based platform that ensures complete transparency and traceability in agricultural supply chains. From farm to table, every step of the agricultural produce journey is recorded on the blockchain, providing immutable proof of origin, quality, and handling practices..
 
 ## ✨ Key Features
 
